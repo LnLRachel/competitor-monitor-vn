@@ -74,7 +74,7 @@ def collect_news() -> dict[str, list[dict]]:
     for brand in BRAND_CAT:
         rss = (
             f"https://news.google.com/rss/search"
-            f"?q={requests.utils.quote(brand)}+when:7d&hl=vi&gl=VN&ceid=VN:vi"
+            f"?q={requests.utils.quote(brand)}+when:7d&hl=en&gl=VN&ceid=VN:en"
         )
         try:
             res  = requests.get(rss, headers=headers, timeout=10)
