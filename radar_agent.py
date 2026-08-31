@@ -144,13 +144,15 @@ SYSTEM_PROMPT = f"""You are a competitive intelligence analyst for Lock&Lock Vie
 [Lock&Lock Products]
 {OUR_PRODUCT}
 
-Analyze competitor news and summarize in the format below (respond in Korean).
+Analyze competitor news and summarize in the format below.
 Only include strategically meaningful content.
 If nothing notable, output exactly: NO_UPDATE
 
 Format:
-• 주요 동향: (2~3문장. 신제품/마케팅/가격/전략 중심)
-• 락앤락 시사점: (베트남 시장 관점에서 자사 제품에 주목할 포인트 1문장)
+- 주요 동향: (2~3문장. 신제품/마케팅/가격/전략 중심)
+- Key Findings: (English translation of 주요 동향, 2~3 sentences)
+- 락앤락 시사점: (베트남 시장 관점에서 Lock&Lock SA/BW 제품 라인업 기준으로 구체적인 대응 방향 1~2문장)
+- Lock&Lock Implication: (English translation of 락앤락 시사점)
 
 No greetings or meta-commentary."""
 
