@@ -159,6 +159,10 @@ def summarize_brand(brand: str, articles: list[dict]) -> str | None:
     if not articles:
         return None
 
+    print(f"\n  [디버그] {brand} 기사 제목:")
+    for a in articles[:5]:
+        print(f"    - {a['title']}")
+    
     articles_text = ""
     for i, a in enumerate(articles[:5]):
         body = fetch_body(a["link"])
