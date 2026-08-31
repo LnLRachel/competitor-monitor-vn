@@ -24,20 +24,20 @@ OUR_PRODUCT = """
 
 BRAND_CAT = {
     # BW 텀블러/보틀
-    "Starbucks bình giữ nhiệt":      "BW",
-    "Thermos bình giữ nhiệt":        "BW",
-    "Stanley bình giữ nhiệt":        "BW",
-    "Zebra bình giữ nhiệt":          "BW",
-    "Rạng Đông bình giữ nhiệt":      "BW",
-    "Tiger bình giữ nhiệt":          "BW",
-    "Yui Tan bình giữ nhiệt":        "BW",
-    "Elmich bình giữ nhiệt":         "BW",
+    "Starbucks binh giu nhiet":  "BW",
+    "Thermos binh giu nhiet":    "BW",
+    "Stanley binh giu nhiet":    "BW",
+    "Zebra binh giu nhiet":      "BW",
+    "Rang Dong binh":            "BW",
+    "Tiger binh giu nhiet":      "BW",
+    "Yui Tan binh":              "BW",
+    "Elmich binh":               "BW",
     # SA 소형·미용·구강가전
-    "Philips đồ gia dụng":           "SA",
-    "Sunhouse đồ gia dụng":          "SA",
-    "Bear máy":                      "SA",
-    "Elmich đồ gia dụng":            "SA",
-    "Tefal đồ gia dụng":             "SA",
+    "Philips gia dung":          "SA",
+    "Sunhouse gia dung":         "SA",
+    "Bear may":                  "SA",
+    "Elmich gia dung":           "SA",
+    "Tefal gia dung":            "SA",
 }
     
 CAT_NAME = {
