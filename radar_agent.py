@@ -38,7 +38,8 @@ BRAND_CAT = {
     "Bear máy":                      "SA",
     "Elmich đồ gia dụng":            "SA",
     "Tefal đồ gia dụng":             "SA",
-
+}
+    
 CAT_NAME = {
     "BW": "Tumbler / Bottle",
     "SA": "소형·미용·구강가전",
