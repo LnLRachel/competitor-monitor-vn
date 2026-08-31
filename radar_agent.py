@@ -23,21 +23,21 @@ OUR_PRODUCT = """
 """
 
 BRAND_CAT = {
-    # BW 텀블러/보틀
-    "Starbucks binh giu nhiet":  "BW",
-    "Thermos binh giu nhiet":    "BW",
-    "Stanley binh giu nhiet":    "BW",
-    "Zebra binh giu nhiet":      "BW",
-    "Rang Dong binh":            "BW",
-    "Tiger binh giu nhiet":      "BW",
-    "Yui Tan binh":              "BW",
-    "Elmich binh":               "BW",
-    # SA 소형·미용·구강가전
-    "Philips gia dung":          "SA",
-    "Sunhouse gia dung":         "SA",
-    "Bear may":                  "SA",
-    "Elmich gia dung":           "SA",
-    "Tefal gia dung":            "SA",
+    # BW
+    "Starbucks":          "BW",
+    "Thermos":            "BW",
+    "Stanley":        "BW",
+    "Zebra":      "BW",
+    "Rang Dong":          "BW",
+    "Tiger":      "BW",
+    "Yui Tan":            "BW",
+    "Elmich":        "BW",
+    # SA
+    "Philips":            "SA",
+    "Sunhouse":           "SA",
+    "Bear":     "SA",
+    "Elmich":             "SA",
+    "Tefal":              "SA",
 }
     
 CAT_NAME = {
