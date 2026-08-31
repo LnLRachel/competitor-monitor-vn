@@ -24,19 +24,19 @@ OUR_PRODUCT = """
 
 BRAND_CAT = {
     # BW 텀블러/보틀
-    "Starbucks tumbler Vietnam":      "BW",
-    "THERMOS bình giữ nhiệt":         "BW",
-    "STANLEY tumbler Vietnam":        "BW",
-    "Zebra bình giữ nhiệt":           "BW",
-    "Rạng Đông bình giữ nhiệt":       "BW",
-    "Tiger bình giữ nhiệt":           "BW",
-    "Yui Tan bình giữ nhiệt":         "BW",
+    "Starbucks":   "BW",
+    "Thermos":     "BW",
+    "Stanley":     "BW",
+    "Zebra":       "BW",
+    "Rang Dong":   "BW",
+    "Tiger":       "BW",
+    "Yui Tan":     "BW",
     # SA 소형·미용·구강가전
-    "Philips Vietnam":                "SA",
-    "Sunhouse":                       "SA",
-    "Bear Vietnam":                   "SA",
-    "Elmich":                         "SA",
-    "Tefal Vietnam":                  "SA",
+    "Philips":                "SA",
+    "Sunhouse":               "SA",
+    "Bear":                   "SA",
+    "Elmich":                 "SA",
+    "Tefal":                  "SA",
 }
 
 CAT_NAME = {
