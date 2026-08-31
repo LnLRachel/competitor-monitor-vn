@@ -87,8 +87,8 @@ def collect_news() -> dict[str, list[dict]]:
 
                 if any(kw.lower() in title.lower() for kw in EXCLUDE_KW):
                     continue
-                if not any(kw.lower() in title.lower() for kw in STRATEGY_KW):
-                    continue
+                #if not any(kw.lower() in title.lower() for kw in STRATEGY_KW):
+                #    continue
 
                 brand_articles[brand].append({
                     "title": title, "link": link, "pub_date": pub_date
